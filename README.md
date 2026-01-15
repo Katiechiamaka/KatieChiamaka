@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Confidence Chiamaka</h1>
+<h1 align="center">Hi there 👋, I'm Confidence Chiamaka Ihediohamma </h1>
 <h3 align="center">A passionate Data Analyst & Analytics Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katiechiamaka" alt="katiechiamaka" /></a> </p>
