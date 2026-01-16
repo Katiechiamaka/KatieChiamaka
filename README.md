@@ -1,6 +1,6 @@
-
-<h1 align="center">Hi there 👋, I'm Confidence Chiamaka Ihediohamma </h1>
-<h3 align="center">A passionate Data Analyst & Analytics Enthusiast</h3>
+[![MasterHead](file:///C:/Users/HP/Downloads/search-images2F22Principles_of_data_visualization_in_2D_animation3A_clarity_accuracy_visual_hierarchy_storytelling_interactivity.webp)(https://encrypted-tbn0.gstatic.com/im...)]
+<h1 align="center">Hi 👋, My name is Confidence Chiamaka Ihediohamma </h1>
+<h3 align="center">I am a Biotechnology Graduate and a Data Analytics Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katiechiamaka" alt="katiechiamaka" /></a> </p>
 
