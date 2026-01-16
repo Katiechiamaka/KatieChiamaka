@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, My name is Confidence Chiamaka Ihediohamma </h1>
 <h3 align="center">I am a Biotechnology Graduate and a Data Analytics Enthusiast</h3>
 
+![image alt](https://github.com/Katiechiamaka/KatieChiamaka/blob/da92e0ef81ef4d26dd20a0fbb286f38a0ffab607/Research%20paper.gif)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katiechiamaka" alt="katiechiamaka" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/katie_chiamaka" target="blank"><img src="https://img.shields.io/twitter/follow/katie_chiamaka?logo=twitter&style=for-the-badge" alt="katie_chiamaka" /></a> </p>
