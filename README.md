@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, My name is Confidence Chiamaka Ihediohamma </h1>
 
-<h3 align="center">I am a Biotechnology Graduate and a Data Analytics Enthusiast</h3>
+<h3 align="center">I am a Business and Finance Data Analytics</h3>
 
 
 ![image alt](https://github.com/Katiechiamaka/KatieChiamaka/blob/da92e0ef81ef4d26dd20a0fbb286f38a0ffab607/Research%20paper.gif)
