@@ -25,7 +25,7 @@ A Data analyst with an engineering mindset, focused on helping businesses save t
 
 - 👐 I am open to Job opportunities
   
-- 🔭 I’m currently working on **Hospital Performance & Sales Analytics Dashboard**
+- 🔭 I’m currently working on **Performance & Sales Analytics Dashboard**
 
 - 🌱 I’m learning **Python for Analytics • Advanced SQL • Power BI • Data Storytelling • Business Intelligence**
 
